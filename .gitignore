@@ -1,5 +1,5 @@
 # Custom Ignore
-package
+task
 dataset
 
 # Byte-compiled / optimized / DLL files
